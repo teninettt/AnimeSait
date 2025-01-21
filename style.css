@@ -1,0 +1,215 @@
+body{
+    margin: 2%;
+    background-color: rgb(234,240,252);
+}
+
+header{
+    background-image: url(img/oboi3.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding: 1%;
+    border: 5px groove;
+    border-color: aqua;
+}
+
+.header_menu { 
+    margin: 0 auto;
+    max-width:90%;
+    background-color: rgba(240, 248, 255,0.5);
+    display: flex;
+    justify-content: space-between;
+    border-radius: 100px;
+    padding: 0.5%;
+    
+}
+
+.header_menu_left {
+    display: flex;
+    margin-left: 2%;
+    
+}
+
+.img1 {
+    border-radius: 50px;
+}
+
+.header_menu_left_text {
+    margin-top: 25px;
+    margin-left: 10px;
+    font-size: 20px ;
+    font-weight: bold;
+}
+
+.header_menu_center {
+display: flex;
+margin-top: 25px;
+margin-right: 20px;
+}
+
+.header_menu_center_text1 {
+    font-size: 23px ;
+    margin-right: 20px;
+    
+}
+
+.header_menu_center_text2 {
+    font-size: 23px ;
+    margin-right: 20px;
+   
+}
+
+.header_menu_center_text3 {
+    font-size: 23px ;
+}
+
+.header_menu_reat {
+margin-top: 10px;
+margin-right: 20px;
+}
+
+.button1{
+    background-color: rgb(14, 206, 203);
+    color: aliceblue;
+    border-radius: 100px;
+    padding: 15px;
+    font-size: 23px;
+    border: none;
+
+}
+
+.header_zagalovoc {
+margin-top: 200px;
+}
+
+.text1 {
+    display: flex;
+    justify-content: center;
+    color: rgb(238, 255, 0);
+    font-size: 35px;
+}
+
+.text2 {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.button {
+display: flex;
+justify-content: center;
+}
+
+.button2{
+    margin-top: 2%;
+    margin-bottom: 3%;
+    background-color: #ffffff00;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    border-width: 2px;
+    border-radius: 100px;
+    border-style: groove;
+    border-color: aliceblue;
+}
+
+.bloc1 {
+    background-color: rgb(249,194,46);
+    
+}
+
+.bloc1_tex1 {
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: 400%;
+    font-weight: bold;
+    max-width: 600px;
+    margin: 0 auto;
+    padding-top: 6%;
+    padding-left: 200px;
+
+}
+
+.bloc1_text2{
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: 150%;
+    font-weight: bold;
+    margin: 0 auto;
+    padding-top: 6%;
+    padding-left: 40px;
+}
+
+.bloc1_button{
+    display: flex;
+    justify-content: center;
+}
+
+.button_bloc1 {
+    background-color:  aqua;
+    color: white;
+    padding: 15px;
+    font-size: 25px; 
+    border-radius: 100px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    border: none;
+
+}
+
+.bloc2 {
+background-color: #fff;;
+}
+
+.bloc2_Uptext {
+    font-size: 400%;
+    font-weight: bold;
+    max-width: 500px;
+    margin: 0 auto;
+   display: flex;
+   justify-content: center;
+}
+
+.bloc2_uptext {
+    font-size: 250%;
+    font-weight: bold;
+    max-width: 250px;
+    margin-bottom: 10px;
+    line-height: 50px;
+}
+
+.bloc2_boxafi {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bloc2_date {
+    font-size: 150%;
+    margin-bottom: 15px;
+}
+
+.bloc2_text {
+    font-size: 150%;
+    max-width: 300px;
+    margin-bottom: 10px;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img_bloc2{
+    width: 330px;
+    height: 400px;
+}
+
+.bloc2_button{
+    background-color:  rgb(83,179,203);
+    color: white;
+    padding: 15px;
+    font-size: 25px; 
+    border-radius: 100px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    border: none;
+}
