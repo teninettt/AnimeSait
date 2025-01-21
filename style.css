@@ -199,6 +199,8 @@ background-color: #fff;;
 }
 
 .img_bloc2{
+    border-radius: 30px;
+    object-fit: cover;
     width: 330px;
     height: 400px;
 }
